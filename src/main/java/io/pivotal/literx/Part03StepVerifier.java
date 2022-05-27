@@ -16,6 +16,7 @@
 
 package io.pivotal.literx;
 
+import java.time.Duration;
 import java.util.function.Supplier;
 
 import io.pivotal.literx.domain.User;
